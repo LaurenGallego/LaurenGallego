@@ -9,7 +9,7 @@
 - 📈 **Statistics:** Leveraging statistical analysis to make data-driven decisions.
 
 ### 🔧 Languages & Tools
-- 💻 **Languages:** Python, SQL, R
+- 💻 **Languages:** Python, SQL, R, Matlab
 - 🔢 **ML & Data Science:** Pandas, NumPy, Scikit-Learn, TensorFlow (and many more as I grow!)
 - 🛠 **Tools:** Jupyter Notebook, Git, SQL++ (experimenting with NoSQL)
 
