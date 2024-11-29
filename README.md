@@ -12,6 +12,7 @@
 - 💻 **Languages:** Python, SQL, R, Matlab
 - 🔢 **ML & Data Science:** Pandas, NumPy, Scikit-Learn, TensorFlow, Pytorch
 - 🛠 **Tools:** Jupyter Notebook, Git, SQLite, MySQL, PowerBI
+
 In this profile you will be able to find some of the projects that I have already completed, and soon I will be adding new repositories for more Data Science related projects.
 <!---
 Lauren-23/Lauren-23 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
