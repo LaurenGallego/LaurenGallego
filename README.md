@@ -4,7 +4,7 @@
 🎓 I’m a Data Science student at **Carlos III University of Madrid (UC3M)** and recently started an exchange program at **University of California, Riverside**. My studies have shaped my passion for exploring **Machine Learning**, **Data Science**, and **Data Engineering/Statistics**.
 
 ### 🔍 Interests
-- 🧠 **Machine Learning:** From neural networks to NLP, I’m constantly learning new ways to turn data into insights.
+- 🧠 **Machine Learning:** using Deep Learning, NLP and Computer Vision, I’m constantly learning new ways to turn data into insights.
 - 📊 **Data Science & Engineering:** I enjoy building and analyzing data pipelines, and I’m always exploring new tools and techniques.
 - 📈 **Statistics:** Leveraging statistical analysis to make data-driven decisions.
 
