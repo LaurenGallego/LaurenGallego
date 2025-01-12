@@ -1,7 +1,7 @@
 # 👋 Welcome to my GitHub Profile
 
 ## About Me
-🎓 I’m a Data Science student at **Carlos III University of Madrid (UC3M)** and recently started an exchange program at **University of California, Riverside**. My studies have shaped my passion for exploring **Machine Learning**, **Data Science**, and **Data Engineering/Statistics**.
+🎓 I’m a Data Science student at **Carlos III University of Madrid (UC3M)** and recently started an exchange program at **University of California, Riverside**. My studies have shaped my passion for exploring **Machine Learning**, **Data Science**, and **Data Engineering**.
 
 ### 🔍 Interests
 - 🧠 **Machine Learning:** using Deep Learning, NLP and Computer Vision, I’m constantly learning new ways to turn data into insights.
