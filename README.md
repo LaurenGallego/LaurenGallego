@@ -1,20 +1,50 @@
-# 👋 Welcome to my GitHub Profile
+# Data Scientist
 
-## About Me
-🎓 I’m a Data Science student at **Carlos III University of Madrid (UC3M)** and recently started an exchange program at **University of California, Riverside**. My studies have shaped my passion for exploring **Machine Learning**, **Data Science**, and **Data Engineering**.
+## 🏫 Education  
+- **Universidad Carlos III de Madrid (UC3M)** | *Sep. 2022 – Jun. 2026*  
+  - GPA: 8.4/10  
+  - Relevant Courses: Predictive Modeling, Machine Learning, Data Structures, Databases, Statistical Signal Processing  
 
-### 🔍 Interests
-- 🧠 **Machine Learning:** using Deep Learning, NLP and Computer Vision, I’m constantly learning new ways to turn data into insights.
-- 📊 **Data Science & Engineering:** I enjoy building and analyzing data pipelines, and I’m always exploring new tools and techniques.
-- 📈 **Statistics:** Leveraging statistical analysis to make data-driven decisions.
+- **University of California, Riverside (UCR)** | *Sep. 2024 – Jun. 2025*  
+  - GPA: 3.9/4  
+  - Relevant Courses: Deep Learning (Graduate), Advanced Machine Learning (Graduate), Computer Vision, NLP  
 
-### 🔧 Languages & Tools
-- 💻 **Languages:** Python, SQL, R, Matlab
-- 🔢 **ML & Data Science:** Pandas, NumPy, Scikit-Learn, TensorFlow, Pytorch
-- 🛠 **Tools:** Jupyter Notebook, Git, SQLite, MySQL, PowerBI
+---
 
-In this profile you will be able to find some of the projects that I have already completed, and soon I will be adding new repositories for more Data Science related projects.
-<!---
-Lauren-23/Lauren-23 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## 💼 Professional Experience  
+### **Geo Data Evaluator** | Telus Digital, Madrid, Spain | *Jun. 2024 – Sep. 2024*  
+- Contacted numerous national/international businesses to gather information for mapping purposes in Spain
+- Verified business details and corrected errors among previously collected data inside the system’s database  
+
+---
+
+## 🛠 Technical Skills  
+- **Programming Languages:** R, Python, SQL, Matlab  
+- **Databases:** Oracle, MySQL, SQLite, MongoDB  
+- **Tools:** Jupyter, PyCharm, RStudio, Visual Studio Code  
+- **Libraries & Frameworks:** Pandas, NumPy, PyTorch, TensorFlow, Flask, NLTK  
+
+---
+
+## 📂 Projects  
+- [Used Cars Price Prediction](https://github.com/LaurenGallego/Used-Cars-Price-Prediction) 
+- [Computer Hardware Sales Analysis](https://github.com/LaurenGallego/Computer-Hardware-Sales-Analysis-PowerBI-Report)
+- 
+---
+### Certifications
+- Harvard CS150 Databases with SQL
+  
+- UC Davis SQL for Data Science
+## 🌟 Leadership Experience  
+- **Private Tutor** 
+  - Designed personalized Mathematics tutoring for university-bound students.  
+
+- **Volunteer Academic Mentor** 
+  - Taught underprivileged children and organized tailored educational resources.  
+
+---
+
+Feel free to explore my repositories for detailed examples of my work and ongoing projects!  
+📫 Contact me: **lauren.gallegoropero@gmail.com**  
+[LinkedIn Profile](http://www.linkedin.com/in/lauren-gallego-ropero)  
+
