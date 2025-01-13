@@ -12,3 +12,5 @@ navigation:
   - Projects: /#projects
   - Certifications: /#certifications
   - Contact: /#contact
+stylesheets:
+  - /assets/css/custom.css
