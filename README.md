@@ -12,7 +12,7 @@
 ---
 
 ## 💼 Professional Experience  
-### ** Geo Data Evaluator** | Telus Digital, Madrid, Spain | *Jun. 2024 – Sep. 2024*  
+### **Geo Data Evaluator** | Telus Digital, Madrid, Spain | *Jun. 2024 – Sep. 2024*  
 - Contacted numerous national/international businesses to gather information for mapping purposes in Spain  
 - Verified business details and corrected errors among previously collected data inside the system’s database  
 
