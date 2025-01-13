@@ -5,12 +5,21 @@ theme: jekyll-theme-minimal
 
 # Navigation links
 navigation:
-  - Home: /
+  - Home: /index.html
   - Education: /#education
   - Professional Experience: /#experience
   - Skills: /#skills
   - Projects: /#projects
   - Certifications: /#certifications
   - Contact: /#contact
+
+# Custom stylesheets
 stylesheets:
   - /assets/css/custom.css
+
+# Enabling GitHub Pages and Jekyll's default settings for build and serve
+markdown: kramdown
+permalink: /:categories/:year/:month/:day/:title/
+exclude:
+  - README.md
+  - LICENSE.md
