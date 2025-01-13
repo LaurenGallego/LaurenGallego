@@ -33,7 +33,7 @@
 ---
 ### Certifications
 - Harvard CS150 Databases with SQL
-  
+(Harvard Certificate.png)
 - UC Davis SQL for Data Science
 ## 🌟 Leadership Experience  
 - **Private Tutor** 
