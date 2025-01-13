@@ -2,3 +2,13 @@ title: Lauren Gallego
 logo: /assets/Profile.jpg
 show_downloads: true
 theme: jekyll-theme-minimal
+
+# Navigation links
+navigation:
+  - Home: /
+  - Education: /#education
+  - Professional Experience: /#experience
+  - Skills: /#skills
+  - Projects: /#projects
+  - Certifications: /#certifications
+  - Contact: /#contact
