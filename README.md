@@ -29,27 +29,24 @@
 ## 📂 Projects  
 - [Used Cars Price Prediction](https://github.com/LaurenGallego/Used-Cars-Price-Prediction) 
 - [Computer Hardware Sales Analysis](https://github.com/LaurenGallego/Computer-Hardware-Sales-Analysis-PowerBI-Report)
-- 
+  
 ---
 ### Certifications
-- Harvard CS150 Databases with SQL
-  <p>
-    <img src="https://github.com/LaurenGallego/portfolio/blob/main/Harvard%20Certificate.png?raw=true" alt="Harvard Certificate" width="300">
-  </p>
-  
-- UC Davis SQL for Data Science
- 
+<table>
+  <tr>
+    <td>
+      <strong>Harvard CS150 Databases with SQL</strong><br>
+      <img src="https://github.com/LaurenGallego/portfolio/blob/main/Harvard%20Certificate.png?raw=true" alt="Harvard Certificate" width="300">
+    </td>
+    <td>
+      <strong>UC Davis SQL for Data Science</strong><br>
+      <img src="https://github.com/LaurenGallego/portfolio/blob/main/UCD%20Certificate.png?raw=true" alt="UCD Certificate" width="300">
+    </td>
+  </tr>
+</table>
 
-## 🌟 Leadership Experience  
-- **Private Tutor** 
-  - Designed personalized Mathematics tutoring for university-bound students.  
 
-- **Volunteer Academic Mentor** 
-  - Taught underprivileged children and organized tailored educational resources.  
-
----
-
-Feel free to explore my repositories for detailed examples of my work and ongoing projects!  
-📫 Contact me: **lauren.gallegoropero@gmail.com**  
-[LinkedIn Profile](http://www.linkedin.com/in/lauren-gallego-ropero)  
-
+### 📫 Contact me: **lauren.gallegoropero@gmail.com**  
+<a href="https://www.linkedin.com/in/lauren-gallego-ropero/" target="_blank">
+  <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ffreelogopng.com%2Fimages%2Fall_img%2F1656996524linkedin-app-icon.png&f=1&nofb=1&ipt=7c10c25f586f2064f67e02e144040429a2b1c65c2aae6c39e1fa8076f98060fc&ipo=images" width="30" alt="LinkedIn Profile">
+</a>
