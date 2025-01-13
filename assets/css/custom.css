@@ -1,0 +1,41 @@
+/* Centering content */
+.center {
+  text-align: center;
+}
+
+/* Adding borders around sections */
+section {
+  border: 2px solid #f1f1f1;
+  padding: 20px;
+  margin-bottom: 20px;
+  border-radius: 10px;
+}
+
+/* Styling project links */
+a.project-link {
+  color: #007bff;
+  text-decoration: none;
+}
+
+a.project-link:hover {
+  text-decoration: underline;
+}
+
+/* Add hover effect on certification images */
+.certificates img {
+  transition: transform 0.3s ease;
+}
+
+.certificates img:hover {
+  transform: scale(1.1);
+}
+
+/* Style footer links */
+.footer a {
+  color: #007bff;
+  text-decoration: none;
+}
+
+.footer a:hover {
+  text-decoration: underline;
+}
