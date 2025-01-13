@@ -1,6 +1,6 @@
-# Data Scientist
+#  Data Scientist
 
-## 🏫 Education  
+## 🎓 Education  
 - **Universidad Carlos III de Madrid (UC3M)** | *Sep. 2022 – Jun. 2026*  
   - GPA: 8.4/10  
   - Relevant Courses: Predictive Modeling, Machine Learning, Data Structures, Databases, Statistical Signal Processing  
@@ -12,13 +12,13 @@
 ---
 
 ## 💼 Professional Experience  
-### **Geo Data Evaluator** | Telus Digital, Madrid, Spain | *Jun. 2024 – Sep. 2024*  
-- Contacted numerous national/international businesses to gather information for mapping purposes in Spain
+### ** Geo Data Evaluator** | Telus Digital, Madrid, Spain | *Jun. 2024 – Sep. 2024*  
+- Contacted numerous national/international businesses to gather information for mapping purposes in Spain  
 - Verified business details and corrected errors among previously collected data inside the system’s database  
 
 ---
 
-## 🛠 Technical Skills  
+## 🛠️ Technical Skills  
 - **Programming Languages:** R, Python, SQL, Matlab  
 - **Databases:** Oracle, MySQL, SQLite, MongoDB  
 - **Tools:** Jupyter, PyCharm, RStudio, Visual Studio Code  
@@ -26,12 +26,13 @@
 
 ---
 
-## 📂 Projects  
-- [Used Cars Price Prediction](https://github.com/LaurenGallego/Used-Cars-Price-Prediction) 
+## 📊 Projects  
+- [Used Cars Price Prediction](https://github.com/LaurenGallego/Used-Cars-Price-Prediction)  
 - [Computer Hardware Sales Analysis](https://github.com/LaurenGallego/Computer-Hardware-Sales-Analysis-PowerBI-Report)
-  
+
 ---
-## Certifications
+
+## 📜 Certifications  
 <table>
   <tr>
     <td>
@@ -45,8 +46,16 @@
   </tr>
 </table>
 
+#### 📫 Contact 
+<div style="display: flex; align-items: center; justify-content: flex-start;">
+  <a href="mailto:lauren.gallegoropero@gmail.com">
+    <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse2.mm.bing.net%2Fth%3Fid%3DOIP.GPb0ZcxnKxbRAXHa3xNw3QHaHa%26pid%3DApi&f=1&ipt=4371e1e26750a70ea8a1e846e34d3c3685b4199092807f925c8fd83820b0224c&ipo=images" alt="Email" width="30" style="margin-bottom: 0; padding-bottom: 0;">
+  </a>
+</div>
 
-#### 📫 Contact me: **lauren.gallegoropero@gmail.com**  
+
+
+
 <a href="https://www.linkedin.com/in/lauren-gallego-ropero/" target="_blank">
   <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ffreelogopng.com%2Fimages%2Fall_img%2F1656996524linkedin-app-icon.png&f=1&nofb=1&ipt=7c10c25f586f2064f67e02e144040429a2b1c65c2aae6c39e1fa8076f98060fc&ipo=images" width="30" alt="LinkedIn Profile">
 </a>
