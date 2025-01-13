@@ -31,22 +31,22 @@
 - [Computer Hardware Sales Analysis](https://github.com/LaurenGallego/Computer-Hardware-Sales-Analysis-PowerBI-Report)
   
 ---
-### Certifications
+## Certifications
 <table>
   <tr>
     <td>
       <strong>Harvard CS150 Databases with SQL</strong><br>
-      <img src="https://github.com/LaurenGallego/portfolio/blob/main/Harvard%20Certificate.png?raw=true" alt="Harvard Certificate" width="300">
+      <img src="https://github.com/LaurenGallego/portfolio/blob/main/Harvard%20Certificate.png?raw=true" alt="Harvard Certificate" width="200">
     </td>
     <td>
       <strong>UC Davis SQL for Data Science</strong><br>
-      <img src="https://github.com/LaurenGallego/portfolio/blob/main/UCD%20Certificate.png?raw=true" alt="UCD Certificate" width="300">
+      <img src="https://github.com/LaurenGallego/portfolio/blob/main/UCD%20Certificate.png?raw=true" alt="UCD Certificate" width="200">
     </td>
   </tr>
 </table>
 
 
-### 📫 Contact me: **lauren.gallegoropero@gmail.com**  
+#### 📫 Contact me: **lauren.gallegoropero@gmail.com**  
 <a href="https://www.linkedin.com/in/lauren-gallego-ropero/" target="_blank">
   <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ffreelogopng.com%2Fimages%2Fall_img%2F1656996524linkedin-app-icon.png&f=1&nofb=1&ipt=7c10c25f586f2064f67e02e144040429a2b1c65c2aae6c39e1fa8076f98060fc&ipo=images" width="30" alt="LinkedIn Profile">
 </a>
