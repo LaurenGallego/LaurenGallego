@@ -37,11 +37,11 @@
   <tr>
     <td>
       <strong>Harvard CS150 Databases with SQL</strong><br>
-      <img src="https://github.com/LaurenGallego/portfolio/blob/main/Harvard%20Certificate.png?raw=true" alt="Harvard Certificate" width="200">
+      <img src="https://github.com/LaurenGallego/portfolio/blob/main/assets/HarvardCertificate.png?raw=true" alt="Harvard Certificate" width="200">
     </td>
     <td>
       <strong>UC Davis SQL for Data Science</strong><br>
-      <img src="https://github.com/LaurenGallego/portfolio/blob/main/UCD%20Certificate.png?raw=true" alt="UCD Certificate" width="200">
+      <img src="https://github.com/LaurenGallego/portfolio/blob/main/assets/UCDCertificate.png?raw=true" alt="UCD Certificate" width="200">
     </td>
   </tr>
 </table>
