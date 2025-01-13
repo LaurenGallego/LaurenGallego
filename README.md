@@ -2,12 +2,12 @@
 
 ## 🎓 Education  
 - **Universidad Carlos III de Madrid (UC3M)** | *Sep. 2022 – Jun. 2026*  
-  - GPA: 8.4/10  
-  - Relevant Courses: Predictive Modeling, Machine Learning, Data Structures, Databases, Statistical Signal Processing  
+  - **GPA**: 8.4/10  
+  - **Relevant Courses**: Predictive Modeling, Machine Learning, Data Structures, Databases, Statistical Signal Processing  
 
 - **University of California, Riverside (UCR)** | *Sep. 2024 – Jun. 2025*  
-  - GPA: 3.9/4  
-  - Relevant Courses: Deep Learning (Graduate), Advanced Machine Learning (Graduate), Computer Vision, NLP  
+  - **GPA**: 3.9/4  
+  - **Relevant Courses**: Deep Learning (Graduate), Advanced Machine Learning (Graduate), Computer Vision, NLP  
 
 ---
 
