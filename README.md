@@ -1,6 +1,6 @@
 #  Data Scientist
 
-## 🎓 Education  
+## 🎓 Education   
 - **Universidad Carlos III de Madrid (UC3M)** | *Sep. 2022 – Jun. 2026*  
   - **GPA**: 8.4/10  
   - **Relevant Courses**: Predictive Modeling, Machine Learning, Data Structures, Databases, Statistical Signal Processing  
