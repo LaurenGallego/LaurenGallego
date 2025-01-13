@@ -33,8 +33,13 @@
 ---
 ### Certifications
 - Harvard CS150 Databases with SQL
-(Harvard Certificate.png)
+  <p>
+    <img src="https://github.com/LaurenGallego/portfolio/blob/main/Harvard%20Certificate.png?raw=true" alt="Harvard Certificate" width="300">
+  </p>
+  
 - UC Davis SQL for Data Science
+ 
+
 ## 🌟 Leadership Experience  
 - **Private Tutor** 
   - Designed personalized Mathematics tutoring for university-bound students.  
