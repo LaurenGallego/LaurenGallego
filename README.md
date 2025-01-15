@@ -36,12 +36,18 @@ The goal of this project is to build an automated model for predicting the price
 2. **Feature Engineering**: Extracting and transforming features that enhance model performance, such as car age, mileage, and brand categorization.
 3. **Advanced Visualizations**: Creating insightful visualizations to explore relationships within the data, detect patterns, and validate assumptions.
 4. **Model Development**: Implementing and evaluating multiple predictive models, including:
-   - 🟢 **Random Forest**
-   - 🔵 **K-Nearest Neighbors (KNN)**
+   - **Random Forest**
+   - **K-Nearest Neighbors (KNN)**
    - Other machine learning models for comparison.
 5. **Model Evaluation**: Assessing model performance based on key metrics such as **accuracy**, **mean squared error**, and **R-squared** to determine the best-performing model.
 
 ### [Computer Hardware Sales Analysis](https://github.com/LaurenGallego/Computer-Hardware-Sales-Analysis-PowerBI-Report)
+This project develops a comprehensive and interactive Power BI dashboard for in-depth sales analysis, importing and 
+cleaning data from SQL databases to ensure accuracy, consistency and connectivity.
+
+1. **Data Preparation**: Imported raw data from Excel into SQL, processing it and organizing it into key tables
+2. **Data Implementation in Power BI**: Implemented the preprocessed data into Power BI and defined essential metrics, schema, etc
+3. **Dashboard Creation**: Created connected visualizations, bookmarks and drill-through page relationships to generate meaningful insights
 
 ---
 
