@@ -1,10 +1,12 @@
 #  Data Scientist
 
 ## 🎓 Education   
+### [*Bachelors of Science in Data Science & Engineering*](https://www.uc3m.es/bachelor-degree/data-science)           
 - **Universidad Carlos III de Madrid (UC3M)** | *Sep. 2022 – Jun. 2026*  
   - **GPA**: 8.4/10  
-  - **Relevant Courses**: Predictive Modeling, Machine Learning, Data Structures, Databases, Statistical Signal Processing  
-
+  - **Relevant Courses**: Predictive Modeling, Machine Learning, Data Structures, Databases, Statistical Signal Processing
+    
+### *Junior Exchange Program Scholarship*
 - **University of California, Riverside (UCR)** | *Sep. 2024 – Jun. 2025*  
   - **GPA**: 3.9/4  
   - **Relevant Courses**: Deep Learning (Graduate), Advanced Machine Learning (Graduate), Computer Vision, NLP  
@@ -27,8 +29,19 @@
 ---
 
 ## 📊 Projects  
-- [Used Cars Price Prediction](https://github.com/LaurenGallego/Used-Cars-Price-Prediction)  
-- [Computer Hardware Sales Analysis](https://github.com/LaurenGallego/Computer-Hardware-Sales-Analysis-PowerBI-Report)
+### [Used Cars Price Prediction](https://github.com/LaurenGallego/Used-Cars-Price-Prediction)  
+The goal of this project is to build an automated model for predicting the prices of used cars based on a variety of features. The project involves the following key steps:
+
+1. **Data Preprocessing**: Handling missing values, outliers, and inconsistent data to ensure high-quality inputs.
+2. **Feature Engineering**: Extracting and transforming features that enhance model performance, such as car age, mileage, and brand categorization.
+3. **Advanced Visualizations**: Creating insightful visualizations to explore relationships within the data, detect patterns, and validate assumptions.
+4. **Model Development**: Implementing and evaluating multiple predictive models, including:
+   - 🟢 **Random Forest**
+   - 🔵 **K-Nearest Neighbors (KNN)**
+   - Other machine learning models for comparison.
+5. **Model Evaluation**: Assessing model performance based on key metrics such as **accuracy**, **mean squared error**, and **R-squared** to determine the best-performing model.
+
+### [Computer Hardware Sales Analysis](https://github.com/LaurenGallego/Computer-Hardware-Sales-Analysis-PowerBI-Report)
 
 ---
 
